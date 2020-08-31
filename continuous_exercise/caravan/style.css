@@ -22,6 +22,7 @@ header {
   margin: 0 auto;
   text-align: center;
 }
+
 header .headline {
   font-size: 32px;
 }
@@ -53,10 +54,12 @@ header .headline {
 }
 .main-visual-content {
   width: 40%;
+
   height: 300px;
   background: rgba(0,0,0,0.5);
   text-align: center;
   padding-top: 105px;
+
 }
 .main-visual-text {
   color: #fff;
@@ -74,6 +77,7 @@ main {
   width: 540px;
   float: left;
   margin-right: 30px;
+
 }
 .blog-headline {
   border-bottom: 8px solid #f7f7f7;
@@ -120,10 +124,12 @@ main {
   display: inline-block;
   width: 30px;
   height: 30px;
+
   margin: 0 5px;
   color: #fff;
   background-color: #acabab;
   border-radius: 3px;
+
   line-height: 30px;
 }
 .sidebar {
